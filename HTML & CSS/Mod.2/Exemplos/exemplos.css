@@ -1,0 +1,28 @@
+
+
+.quadrado{
+    background-color: #a5e9a5;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    margin: 100px 90px 10px;
+    display: inline-block;
+}
+
+.quadrado1{
+    background-color: #8a8ada;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    margin: 100px 90px 10px;
+    display: inline-block;
+}
+
+.quadrado2{
+   background-color: #d89ae7;
+   height: 100px;
+   width: 100px;
+   position: relative;
+   margin: 100px 90px 10px;
+   display:inline-block;
+}
